@@ -10,6 +10,9 @@ Integrates with serverless-offline to run scheduled lambdas locally.  Can also b
 #### Features ####
 * Change 1
 
+#### Requirements ####
+* Node v6.10.0 or higher
+
 #### Usage ####
 * Install module `npm i --save-dev serverless-offline-scheduler`
 * Update serverless.yml
